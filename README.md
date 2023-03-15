@@ -1,5 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Iindenshield&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Iindenshield/github-widgetbox)
-
+![image]({[BadgeURLHere](https://custom-icon-badges.herokuapp.com/badge/comet%20ml-262c3e?style=for-the-badge&logo=logo_comet_ml&logoColor=white)})
 ### Hi, I'm Iolanda 👋
 
 Thanks for checking out my profile! I recently graduated with a master's degree in **Computer Animation and VFX**, and I'm an aspiring Production Assistant.
