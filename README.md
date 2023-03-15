@@ -1,5 +1,6 @@
 ### Hi, I'm Iolanda 👋
 
+Thanks for checking out my profile! I recently graduated with a master's degree in **Computer Animation and VFX**, and I'm an aspiring Production Assistant.
 <!--
 **Iindenshield/Iindenshield** is a 
 **Iindenshield/Iindenshield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
