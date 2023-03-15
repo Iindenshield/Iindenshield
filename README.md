@@ -1,3 +1,5 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Iindenshield&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Iindenshield/github-widgetbox)
+
 ### Hi, I'm Iolanda 👋
 
 Thanks for checking out my profile! I recently graduated with a master's degree in **Computer Animation and VFX**, and I'm an aspiring Production Assistant.
