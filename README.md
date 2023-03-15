@@ -7,5 +7,5 @@ Thanks for checking out my profile! I recently graduated with a master's degree 
 
 ## Connect with me
 
-[![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)](https://www.linkedin.com/in/iolandafilipponi/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iolandafilipponi/)
 
