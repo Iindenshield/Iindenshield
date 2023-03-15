@@ -1,20 +1,10 @@
-<img src="{[BadgeURLHere](https://img.shields.io/badge/Micro%20blog-FF8800?style=for-the-badge&logo=Microdotblog&logoColor=white)}" />
+# Hello, World! <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>
 
-### Hi, I'm Iolanda 👋
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Iindenshield&data=followers,repositories,stars,commits&theme=darkmode)](https://www.linkedin.com/in/iolandafilipponi/github-widgetbox)
 
-Thanks for checking out my profile! I recently graduated with a master's degree in **Computer Animation and VFX**, and I'm an aspiring Production Assistant.
-<!--
-**Iindenshield/Iindenshield** is a 
-**Iindenshield/Iindenshield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for checking out my profile! I recently graduated with a master's degree in **Computer Animation and VFX**. Previously, I got a bachelor's degree in **Computer Science**. I'm an aspiring producer in Animation Industry yet I am interested in rigging and animation.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
