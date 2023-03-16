@@ -5,6 +5,8 @@
 
 Thanks for checking out my profile! I recently graduated with a master's degree in **Computer Animation and VFX**. Previously, I got a bachelor's degree in **Computer Science**. I'm an aspiring producer in Animation Industry yet I am interested in rigging and animation.
 <br />
+
+### :books: Now learning
 - Currently learning **ShotGrid Python API3**. Check out [my study notes](https://github.com/Iindenshield/space-capades/tree/main/Shotgun-scripts) :bar_chart:
 
 ## 👨‍💻: Skills
