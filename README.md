@@ -8,7 +8,7 @@ Thanks for checking out my profile! I recently graduated with a master's degree 
 
 ### :books: Now learning
 - **ShotGrid Python API3**. Check out [my study notes](https://github.com/Iindenshield/space-capades/tree/main/Shotgun-scripts) :bar_chart:
-- **WordPress and CSS**. You can find my notes [here](https://github.com/Iindenshield/WordPressCSSStudyNotes)) :bar_chart:
+- **WordPress and CSS**. You can find my notes [here](https://github.com/Iindenshield/WordPressCSSStudyNotes) :bar_chart:
 
 ## 👨‍💻: Skills
 ### :space_invader: Programming Languages
