@@ -12,7 +12,7 @@ Thanks for checking out my profile! I recently graduated with a master's degree 
 
 ## 👨‍💻: Skills
 ### :space_invader: Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) <img src="https://user-images.githubusercontent.com/34791305/225504771-09706d9b-5364-4693-9713-09fb3e7aa3c6.png" width="97.5" height="28"> ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) <img src="https://user-images.githubusercontent.com/34791305/225504771-09706d9b-5364-4693-9713-09fb3e7aa3c6.png" width="97.5" height="28"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white) 
 
 ### :wrench: Software and Tools
 ![windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white) ![mac](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black) <br /> 
