@@ -7,8 +7,7 @@ Thanks for checking out my profile! I recently graduated with a master's degree 
 <br />
 
 ### :books: Now learning
-- **How to build my first Auto-Rig** in Maya with Python 3. Check out [my study notes](https://github.com/Iindenshield/space-capades/tree/main/Shotgun-scripts) :bar_chart:
-- **HTML and CSS**. You can find my notes [here](https://github.com/Iindenshield/WordPressCSSStudyNotes) :bar_chart:
+- **How to build my first Auto-Rig** in Maya with Python 3. Check out [my repo]() :bar_chart:
 
 ## 👨‍💻: Skills
 ### :space_invader: Programming Languages
