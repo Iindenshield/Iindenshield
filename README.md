@@ -7,7 +7,7 @@ Thanks for checking out my profile! I recently graduated with a master's degree 
 <br />
 
 ### :books: Now learning
-- **How to build my first Auto-Rig** in Maya with Python 3. Check out [my repo]() :bar_chart:
+- **How to build my first Auto-Rig** in Maya with Python 3. Check out [my repo](https://github.com/Iindenshield/my-first-auto-rig/blob/main/README.md) :bar_chart:
 
 ## 👨‍💻: Skills
 ### :space_invader: Programming Languages
