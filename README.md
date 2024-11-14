@@ -7,7 +7,7 @@ Thanks for checking out my profile! I'm a 3D animator and rigger with 1+ year of
 <br />
 
 ### :books: Now learning
-- **Scripting and rigging in TB Harmony** with JavaScript. Check out [my repo](https://github.com/Iindenshield/my-first-auto-rig/blob/main/README.md) :bar_chart:
+- **Scripting and rigging in TB Harmony** with JavaScript. Check out [my repo](https://github.com/Iindenshield/TB_Harmony_CustomTools.git) :bar_chart:
 
 ## 👨‍💻: Skills
 ### :space_invader: Programming Languages
