@@ -3,11 +3,11 @@
 ## About me
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Iindenshield&data=followers,repositories,stars,commits&theme=darkmode)](https://www.linkedin.com/in/iolandafilipponi/github-widgetbox)
 
-Thanks for checking out my profile! I recently graduated with a master's degree in **Computer Animation and VFX**. Previously, I got a bachelor's degree in **Computer Science**. I'm a 3D Rigger and Animator - currently - based in Rome. I am also interested in Animation Industry Production.
+Thanks for checking out my profile! I'm a 3D animator and rigger with 1+ year of experience in the VFX industry. I graduated with a master's degree in **Computer Animation and VFX**. Previously, I got a bachelor's degree in **Computer Science**. I am also interested in Animation Industry Production.
 <br />
 
 ### :books: Now learning
-- **How to build my first Auto-Rig** in Maya with Python 3. Check out [my repo](https://github.com/Iindenshield/my-first-auto-rig/blob/main/README.md) :bar_chart:
+- **Scripting and rigging in TB Harmony** with JavaScript. Check out [my repo](https://github.com/Iindenshield/my-first-auto-rig/blob/main/README.md) :bar_chart:
 
 ## 👨‍💻: Skills
 ### :space_invader: Programming Languages
